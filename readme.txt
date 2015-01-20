@@ -6,4 +6,3 @@ let's go!
 I am master!
 let's go![dev]
 I am Dev!
---no-ff -m "comt"
